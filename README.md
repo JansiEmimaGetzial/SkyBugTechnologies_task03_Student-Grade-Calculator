@@ -41,11 +41,10 @@ java StudentGradeCalculator
 
 After entering the marks, the program will display:
 
-plaintext
-Results:
-Total Marks: [calculated total marks]
-Average Percentage: [calculated average percentage]%
-Grade: [calculated grade]
+
+- Total Marks: [calculated total marks]
+- Average Percentage: [calculated average percentage]%
+- Grade: [calculated grade]
 
 
 ## Customize
